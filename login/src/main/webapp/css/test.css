@@ -1,0 +1,80 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 100%;
+	height: auto;
+    display: flex;
+    padding-right: 0px;
+    padding-left: 0px;    
+    border: 2px solid black;
+}
+.uiright{
+	background-color: #0A2647;
+}
+.right{
+    width:200px;
+    margin:40px;
+
+    
+    
+}
+.right .avatar{
+    width: 100px;
+    height: 100px;
+}
+.right h1{
+    color: white;
+}
+.right p{
+    color:white
+}
+.aboutme h1{
+	border-bottom: 3px solid white;
+	width: 125px;
+	font-size: 24px;
+}
+.contact h1{
+	border-bottom: 3px solid white;
+	width: 125px;
+	font-size: 24px;
+}
+.interest h1{
+	border-bottom: 3px solid white;
+	width: 110px;
+	font-size: 24px;
+}
+.hobbies h1{
+	border-bottom: 3px solid white;
+	width: 125px;
+	font-size: 24px;
+}
+.left{
+	padding:50px;
+}
+.left .name h1{
+	font-family: 'Playfair Display', serif;
+}
+.element{
+	display:flex;
+}
+.element span{
+	width:400px;
+	background-color: #0A2647;
+	height:15px;
+	margin-top:2px;
+	margin-left:3px;
+}
+.element p{
+	font-size: 15px;
+}
+.leftbody{
+	display:flex;
+}
+.education{
+	width:550px;
+}
+.a{
+	margin-left: 100px;
+}
